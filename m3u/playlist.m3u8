@@ -1,4 +1,7 @@
 #EXTM3U
+
+# FILMS
+
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_9b066416.jpeg" group-title="Films", Deadpool & Wolverine - 2024
 https://mayi22147.mayicloud.com/files/aa/KMX0mhT4APYluv9meGyFfLt4RJDoESToERo.m3u8
 
@@ -31,6 +34,10 @@ https://mayi24312.mayicloud.com/files/aa/Gm3K5oUgjWWCsGrHODEPQIDEuWzU3ukJQou.m3u
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/9L2bxBjTqbO9sxL7fGkMqN1nORI.jpg" group-title="Films", Money Electric: The Bitcoin Mystery - 2024
 https://mayi22147.mayicloud.com/files/aa/tCoEZ56lzT4kiu53dmLnyGCEIDfR07WuKk8.m3u8
+
+
+
+# TV LIVE
 
 #EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~e08d0f4124b46a3e.png/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Chaînes", RMC SPORT 1 - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/33.m3u8
@@ -74,8 +81,13 @@ https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/60.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Chaînes", SYFY - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/91.m3u8
 
+
+
+#SERIES
+
+# BERSERK
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Berserk_anime_logo.png" group-title="Berserk", Berserk - E1
-https://v-05iy-7oiw-vi.vmrange.lat/hls/xqx2omddhvokjiqbthxcfjqdwi4ql6grai6ptuade,2ngkvp6ovpxlacpmlka,t7gkvp6ovptqhqhh3ka,.urlset/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Berserk_anime_logo.png" group-title="Berserk", Berserk - E2
 https://kate-2-o.transitto.online/hls/xqx2o4pyorokjiqbteqsj6q7wbtwuzvas2myls7rlxirtpin26kkch2dkuoq/index-v1-a1.m3u8
