@@ -29,8 +29,8 @@ https://mayi24312.mayicloud.com/files/aa/GrdYUrYJCj37hXacNqFbtGO8ck4uAVDhmRg.m3u
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bGiNbWaWQxuyIeuajujvsQRJw9y.jpg" group-title="Films", Gran Turismo - 2023
 https://mayi24312.mayicloud.com/files/aa/Gm3K5oUgjWWCsGrHODEPQIDEuWzU3ukJQou.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~e08d0f4124b46a3e.png/1200x630/crop-from/top/quality/80/rmc-sport-1.png" RMC SPORT 1 - LIVE
+#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~e08d0f4124b46a3e.png/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Chaînes", RMC SPORT 1 - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/33.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" beIN SPORT 1 - LIVE
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="Chaînes", beIN SPORT 1 - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/44.m3u8
