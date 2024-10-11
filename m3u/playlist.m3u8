@@ -47,6 +47,9 @@ https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/49.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp" group-title="Chaînes", beIN SPORT 3 - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/50.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-500x281.png" group-title="Chaînes", CANAL + - LIVE
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/1920x1080/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png" group-title="Chaînes", CANAL + SPORT - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/54.m3u8
 
