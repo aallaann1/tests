@@ -70,3 +70,6 @@ https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/59.m3u8
 
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="Chaînes", EUROSPORT 2 - LIVE
 https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/60.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Chaînes", SYFY - LIVE
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/91.m3u8
